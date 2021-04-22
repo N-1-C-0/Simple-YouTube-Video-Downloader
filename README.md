@@ -1,1 +1,1 @@
-Simple YouTube Video Downloader with GUI written in Python you just need the library pytube and tkinter.
+Simple YouTube Video Downloader with GUI written in Python you need the library pytube and tkinter.
